@@ -1,0 +1,60 @@
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.AssemblyReference.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.login.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Splash.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.GenerateResource.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Properties.Resources.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CoreCompileInputs.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe.config
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.pdb
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\Guna.UI.dll
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Client.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CopyComplete
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.exe
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.pdb
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Appointment.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Services.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Product1.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Billing.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Employees.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Logout.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe.config
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.pdb
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.AssemblyReference.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Appointment.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Billing.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Client.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Employees.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.login.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Logout.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Product1.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Services.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Splash.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Properties.Resources.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.GenerateResource.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CoreCompileInputs.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CopyComplete
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.exe
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System.1\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.pdb
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe.config
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.pdb
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.AssemblyReference.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Appointment.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Billing.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Client.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Employees.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.login.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Logout.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Services.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Splash.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Properties.Resources.resources
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.GenerateResource.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CoreCompileInputs.cache
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CopyComplete
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.exe
+C:\Users\Minusha Attygala\Downloads\C# Assesment\HairCut Management System\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.pdb
