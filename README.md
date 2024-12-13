@@ -1,1 +1,1 @@
-# HairCut-Management-System
+# Hair Cut Management System
