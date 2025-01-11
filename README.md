@@ -34,10 +34,10 @@ The **HairCut Management System** is a desktop application developed in C# to st
 
 ## Screenshots
 ### Login Screen
-![Login Screen](link_to_screenshot)
+![Login Screen](https://github.com/MinuAtty/HairCut-Management-System/blob/8e6d1758ab2ea1a3b083f7dfde5a0f9311d73bb4/Login%20Screen.png)
 
 ### Appointment Management
-![Appointment Management](link_to_screenshot)
+![Appointment Management](https://github.com/MinuAtty/HairCut-Management-System/blob/8e6d1758ab2ea1a3b083f7dfde5a0f9311d73bb4/Appointment%20Management.png)
 
-### Sales Report
-![Sales Report](link_to_screenshot)
+### Services
+![Services](https://github.com/MinuAtty/HairCut-Management-System/blob/91c28da7efefdbb46110037f176c8bd12fc56e8d/Services.png)
